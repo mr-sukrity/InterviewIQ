@@ -878,8 +878,6 @@ npm run preview
 
 Some possible future improvements include:
 
-- AI voice-based interviews
-- Speech-to-text answers
 - Real-time AI conversation
 - Coding interview practice
 - Company-specific interview preparation
